@@ -1,0 +1,22 @@
+{
+  "name": "@umi-block/menuManagement",
+  "version": "0.0.1",
+  "description": "菜单管理",
+  "main": "src/index.js",
+  "authors": {
+    "name": "zhangfu",
+    "email": ""
+  },
+  "repository": "https://github.com/zhangfu-git/menuManagement",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.9.0",
+    "umi-plugin-block-dev": "^2.0.0"
+  },
+  "license": "MIT"
+}
